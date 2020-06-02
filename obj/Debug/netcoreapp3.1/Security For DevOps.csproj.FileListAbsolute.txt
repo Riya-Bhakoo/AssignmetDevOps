@@ -1,0 +1,37 @@
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.exe
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.deps.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.runtimeconfig.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.runtimeconfig.dev.json
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.dll
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.pdb
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.Views.dll
+C:\Users\RIYA\source\repos\Security For DevOps\bin\Debug\netcoreapp3.1\Security For DevOps.Views.pdb
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.csprojAssemblyReference.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.csproj.CoreCompileInputs.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.RazorAssemblyInfo.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.RazorAssemblyInfo.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.AssemblyInfoInputs.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.AssemblyInfo.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.TagHelpers.input.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.TagHelpers.output.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.RazorCoreGenerate.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.RazorTargetAssemblyInfo.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.RazorTargetAssemblyInfo.cs
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.Views.pdb
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\staticwebassets\Security For DevOps.StaticWebAssets.Manifest.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\staticwebassets\Security For DevOps.StaticWebAssets.xml
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.dll
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.pdb
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.genruntimeconfig.cache
+C:\Users\RIYA\source\repos\Security For DevOps\obj\Debug\netcoreapp3.1\Security For DevOps.csproj.CopyComplete
